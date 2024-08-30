@@ -1,5 +1,6 @@
-{
-  "name": "Aircrack-ng",
+
+  "name"
+   "Aircrack-ng",
   "dockerFile": "Dockerfile",
   "privileged": true,
   "runArgs": [
